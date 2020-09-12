@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolejkaPriorytet", "KolejkaPriorytet\KolejkaPriorytet.csproj", "{D321CE4F-9B5D-4B1B-8384-CCE05F790D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wyjatki", "Wyjatki\Wyjatki.csproj", "{98BB418C-BA09-48EE-AE3C-F12E351FD813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strumienie", "Strumienie\Strumienie.csproj", "{2C5ED875-2370-4E91-99ED-7E74B31A7680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlikiFoldery", "PlikiFoldery\PlikiFoldery.csproj", "{1E1A07C4-FD2E-4B97-878E-D06A6E6D4A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoToZaPlik", "CoToZaPlik\CoToZaPlik.csproj", "{50BF482E-0307-4061-869B-CABFCC10E3C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StooqParser", "StooqParser\StooqParser.csproj", "{E8A66803-00A5-441D-A877-DCAB6488CDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D321CE4F-9B5D-4B1B-8384-CCE05F790D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D321CE4F-9B5D-4B1B-8384-CCE05F790D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D321CE4F-9B5D-4B1B-8384-CCE05F790D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D321CE4F-9B5D-4B1B-8384-CCE05F790D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BB418C-BA09-48EE-AE3C-F12E351FD813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BB418C-BA09-48EE-AE3C-F12E351FD813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BB418C-BA09-48EE-AE3C-F12E351FD813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BB418C-BA09-48EE-AE3C-F12E351FD813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5ED875-2370-4E91-99ED-7E74B31A7680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5ED875-2370-4E91-99ED-7E74B31A7680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5ED875-2370-4E91-99ED-7E74B31A7680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5ED875-2370-4E91-99ED-7E74B31A7680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1A07C4-FD2E-4B97-878E-D06A6E6D4A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1A07C4-FD2E-4B97-878E-D06A6E6D4A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1A07C4-FD2E-4B97-878E-D06A6E6D4A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1A07C4-FD2E-4B97-878E-D06A6E6D4A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BF482E-0307-4061-869B-CABFCC10E3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BF482E-0307-4061-869B-CABFCC10E3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BF482E-0307-4061-869B-CABFCC10E3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BF482E-0307-4061-869B-CABFCC10E3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A66803-00A5-441D-A877-DCAB6488CDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A66803-00A5-441D-A877-DCAB6488CDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A66803-00A5-441D-A877-DCAB6488CDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A66803-00A5-441D-A877-DCAB6488CDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {520004C2-BD2A-4FAB-A41E-027E88C1A68D}
+	EndGlobalSection
+EndGlobal
